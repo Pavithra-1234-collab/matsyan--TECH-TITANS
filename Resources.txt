@@ -1,0 +1,34 @@
+                                                                **Data Sources for Indian Marine Fisheries & Ocean Data**
+
+🌊 INCOIS (Indian National Centre for Ocean Information Services
+      =>•	Satellite-based sea surface temperature (SST), chlorophyll, currents, wave height, and Potential Fishing Zones (PFZ), Daily to hourly resolution
+
+
+🐟 CMFRI (Central Marine Fisheries Research Institute)
+        =>•	Species-wise monthly fish catch statistics 
+
+
+🧭 Fishery Survey of India (FiSI)
+        =>•	Depth-wise catch per unit effort (CPUE)
+
+
+🛰️ Copernicus Marine Service (CMEMS)
+        =>•	Free global satellite oceanographic data
+
+ 
+📈 Data.gov.in
+        =>•	Government-open data on fisheries, marine environment, meteorology, etc.
+         # https://data.gov.in
+
+
+
+☁️ IMD (India Meteorological Department)
+        =>•	Marine weather forecasts: wind speed, cyclones, wave height, ocean temp
+          •	Useful for adding safety features and weather-risk prediction in SmartFishNet
+
+
+🧪 Academic & Research Papers
+       => OpenWeatherMap or Windy API
+         •	Google Scholar
+         •	ResearchGate
+         •	Springer / Elsevier / NOPR (Indian journals)
