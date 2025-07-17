@@ -20,6 +20,21 @@ Small-scale fishermen often rely on traditional methods to decide where and when
 SmartFishNet solves this by giving **real-time fish predictions** using **ML + ocean science**!
 
 ---
+
+## 🏗️ Architecture
+
+```text
+┌────────────┐     ┌──────────────┐     ┌────────────┐
+│ User Input │ --> │ Flask API    │ --> │ ML Models  │
+└────────────┘     └────┬─────────┘     └────┬───────┘
+                         │                  │
+                         │                  ▼
+                   Predict Catch       Predict Species
+                         │                  │
+                         ▼                  ▼
+                   JSON Output to Frontend / User
+
+---
 #Solution
 SmartFishNet provides:
 
