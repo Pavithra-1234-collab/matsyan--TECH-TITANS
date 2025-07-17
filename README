@@ -1,0 +1,85 @@
+🐟 SmartFishNet – AI for Smarter Fishing
+
+AI-Powered Real-Time Fish Catch Predictor SmartFishNet is an intelligent, real-time fish catch prediction system designed to assist fishermen in
+identifying the best fishing zones.
+🎯 **Goal**: Predict fish catch quantity and species in real-time using satellite + oceanographic data (depth, SST, salinity, etc.)
+
+IMAGE
+---
+
+## 🚨 Problem Statement
+PROBLEM STATEMENT
+Small-scale fishermen often rely on traditional methods to decide where and when to fish, leading to:
+
+🌊 Wasted fuel and time on unproductive trips
+🐠 Overfishing in ecologically fragile zones
+💸 Unpredictable income and economic insecurity
+⛈️ Safety risks during unstable weather
+🛰️ Low adoption of modern technology due to cost/accessibility
+
+SmartFishNet solves this by giving **real-time fish predictions** using **ML + ocean science**!
+
+---
+#Solution
+SmartFishNet provides:
+
+🎯 AI-based prediction of fish species and expected catch volume (kg)
+🗺️ Interactive maps showing fishing hotspots
+🌤️ Weather and tide alerts for safety
+🌐 Works online/offline with minimal bandwidth
+🧠 Uses real-world and crowdsourced catch data to train models
+
+## 🚀 Features
+- Predict fish species from location + ocean data
+- Real-time catch quantity estimation (kg)
+- Trained on synthetic + real marine datasets
+- API-based backend for integration with mobile/web
+- UI ready for fishermen or fishery departments
+
+---
+
+## 🧠 Tech Stack
+
+| Layer       | Tools Used                     |
+|-------------|--------------------------------|
+| ML/AI       | scikit-learn, pandas, numpy    |
+| Backend     | Flask or FastAPI               |
+| Frontend    | React / HTML-CSS-JS            |
+| Deployment  | Streamlit    |
+| Data        | Synthetic data + mock fish DB  |
+
+*Mapbox / Leaflet.js for map view
+*Axios (for API requests)
+---
+
+## ⚙️ Installation
+
+```bash
+# Backend
+Flask
+FastAPI
+cd backend
+pip install -r requirements.txt
+python main.py
+
+# Frontend
+cd frontend
+npm install
+npm start
+        
+🛠️ Installation & Setup Instructions
+Backend
+# Clone the repo
+git clone https://github.com/yourusername/SmartFishNet.git
+cd SmartFishNet/backend
+
+# Install dependencies
+pip install -r requirements.txt
+-----------------------------------------
+youtube demo viedo link
+        
+-----------------------------------------
+##team members
+Pavithra V -- development
+Aashritha -- ML model training
+Hiba Maraim -- deployment
