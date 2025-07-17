@@ -67,8 +67,11 @@ SmartFishNet provides:
 *Axios (for API requests)
 ---
 
-## ⚙️ Installation
+## DEPLOYMENT LINK-VERCEL
+https://vercel.com/pavithra-1234-collabs-projects/matsyan-tech-titans
 
+
+## ⚙️ Installation
 ```bash
 # Backend
 Flask
@@ -90,10 +93,11 @@ cd SmartFishNet/backend
 
 # Install dependencies
 pip install -r requirements.txt
------------------------------------------
+
+---
 youtube demo viedo link
         
------------------------------------------
+---
 ##team members
 Pavithra V -- development
 Aashritha -- ML model training
